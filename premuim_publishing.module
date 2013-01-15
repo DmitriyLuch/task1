@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Premuim publishing feature.
+ */
+
+include_once 'premuim_publishing.features.inc';
